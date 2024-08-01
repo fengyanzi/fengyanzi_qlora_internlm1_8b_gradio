@@ -1,0 +1,2 @@
+# fengyanzi_qlora_internlm1_8b_gradio
+个人认知大模型微调测试
